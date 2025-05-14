@@ -2,10 +2,10 @@
     --page-max-width: 100%;
   }
 
-.btn-primary {
+/* .btn-primary {
     background-color: #df5210 !important;
     border-color: #df5210 !important;
-}
+} */
 
 .grid-row-open .form-in-grid {
     max-width: var(--form-in-grid-max-width, 100%); /* Default value */
